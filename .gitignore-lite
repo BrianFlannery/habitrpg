@@ -29,13 +29,14 @@ coverage.html
 common/dist/scripts/*
 common/dist/sprites/habitrpg-shared.css
 
+.git-full
+
 test/spec/mocks/translations.js
 website/public/front/images/testimonials
 website/public/front/images/testimonials/**
 website/public/front/images/intro.psd
 website/public/front/images/screenshot.png
 website/public/front/images/HabitRPGPromoPostCard6.png
-.git-full
 website/public/front/images/**.psd
 website/public/front/images/uses
 website/public/front/images/uses/**

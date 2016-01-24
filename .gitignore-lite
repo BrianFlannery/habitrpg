@@ -31,10 +31,23 @@ common/dist/sprites/habitrpg-shared.css
 
 test/spec/mocks/translations.js
 website/public/front/images/testimonials
+website/public/front/images/testimonials/**
 website/public/front/images/intro.psd
 website/public/front/images/screenshot.png
 website/public/front/images/HabitRPGPromoPostCard6.png
 .git-full
 website/public/front/images/**.psd
 website/public/front/images/uses
+website/public/front/images/uses/**
 website/public/front/images/presslogos
+website/public/front/images/presslogos/**
+website/public/presskit
+website/public/presskit/**
+website/public/marketing
+website/public/marketing/**
+website/public/merch
+website/public/front/images/testimonials
+website/public/front/images/devices.png
+website/public/front/images/mockup_for_habit_by_cosmic_caterpillar-d8mf5mb.png
+website/public/emails/images
+website/public/emails/images/**
